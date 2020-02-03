@@ -1,2 +1,2 @@
-# music_history
-sql queries
+# Music History
+SQL query exercises
